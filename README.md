@@ -6,13 +6,14 @@ A text editor that works offline. The application will also able to be downloade
 * npm run build
 
 # Tech used
-* Express
-* if-env
+* Express: A fast and minimal web application framework for Node.js.
+* if-env: Used for environment variable management.
 
 # Author
 * Tristen John Hobba
 
 # Deployed link
+Access the deployed Tristens-PWA-Text-Editor application through the following link:
 https://tristens-pwa-text-editor-552b34f29ce1.herokuapp.com/
 
 # Screenshot of deployed application
